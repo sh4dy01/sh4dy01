@@ -1,19 +1,22 @@
 ### Welcome to my profile 👋
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## :book: About me
+## ⬆ What I'm focused on
+## 🔔 My latest Github Activity
+## 📫 How to reach me
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-📈 My Github Stats  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sh4dy01&show_icons=true&theme=gruvbox" />
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+## 📈 My Github Stats
+
+<a href="https://github.com/sh4dy01">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sh4dy01&show_icons=true&theme=gruvbox&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/sh4dy01">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dy01&hide=TeX,JavaScript,PLSQL&layout=compact" />
 </a>  
 
