@@ -56,19 +56,15 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dy01&hide=TeX,JavaScript,PLSQL,C&layout=compact&theme=darcula" />
     </a>  
-    <a href="https://wakatime.com/"> 
+      <!-- disabled for now
+    <a href="https://wakatime.com/">
+       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sh4dy01)](https://github.com/anuraghazra/github-readme-stats"/>
+    </a>
+      -->
+        <div>
         <!--START_SECTION:waka-->
-
-```rust
-From: 26 November 2023 - To: 03 December 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-    </p>
+        <!--END_SECTION:waka-->
+        </div>
   </div>
 </section>
 
