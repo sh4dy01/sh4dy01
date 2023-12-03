@@ -51,16 +51,19 @@
 <section>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sh4dy01&show_icons=true&theme=gruvbox&include_all_commits=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sh4dy01&show_icons=true&theme=darcula&include_all_commits=true" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dy01&hide=TeX,JavaScript,PLSQL&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dy01&hide=TeX,JavaScript,PLSQL,C&layout=compact&theme=darcula" />
     </a>  
+    <a href="https://wakatime.com/"> 
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh4dy01" alt="abhisheknaiidu"/>
+    </p>
   </div>
 </section>
 
+    
 <!-- disabled for now
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh4dy01" alt="abhisheknaiidu"/>
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=sh4dy01&countColor=%23263759&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=sh4dy01)
 
 **sh4dy01/sh4dy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
