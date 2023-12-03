@@ -57,7 +57,8 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dy01&hide=TeX,JavaScript,PLSQL,C&layout=compact&theme=darcula" />
     </a>  
     <a href="https://wakatime.com/"> 
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh4dy01" alt="abhisheknaiidu"/>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
     </p>
   </div>
 </section>
