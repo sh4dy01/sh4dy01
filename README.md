@@ -63,7 +63,16 @@
       -->
         <div>
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```rust
+From: 26 November 2023 - To: 03 December 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
         </div>
   </div>
 </section>
