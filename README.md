@@ -65,17 +65,17 @@
         <!--START_SECTION:waka-->
 
 ```rust
-From: 26 November 2023 - To: 21 December 2023
+From: 26 November 2023 - To: 22 December 2023
 
-Total Time: 27 hrs 50 mins
+Total Time: 34 hrs 26 mins
 
-C#               26 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   93.49 %
-UnityYaml        1 hr 28 mins    >------------------------   05.32 %
-Csproj           8 mins          -------------------------   00.50 %
-Text             6 mins          -------------------------   00.39 %
-XML              1 min           -------------------------   00.07 %
-GitIgnore file   0 secs          -------------------------   00.05 %
-InputActions     0 secs          -------------------------   00.03 %
+C#               31 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.78 %
+UnityYaml        2 hrs 9 mins    >>-----------------------   06.26 %
+Csproj           8 mins          -------------------------   00.41 %
+Text             6 mins          -------------------------   00.32 %
+XML              1 min           -------------------------   00.06 %
+GitIgnore file   0 secs          -------------------------   00.04 %
+InputActions     0 secs          -------------------------   00.02 %
 Markdown         0 secs          -------------------------   00.01 %
 Solution File    0 secs          -------------------------   00.00 %
 ```
