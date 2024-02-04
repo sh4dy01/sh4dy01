@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 November 2023 - To: 01 February 2024
+From: 26 November 2023 - To: 02 February 2024
 
-Total Time: 84 hrs 56 mins
+Total Time: 86 hrs 45 mins
 
-C++              41 hrs 33 mins  >>>>>>>>>>>>-------------   48.92 %
-C#               31 hrs 57 mins  >>>>>>>>>----------------   37.61 %
-C                7 hrs 49 mins   >>-----------------------   09.21 %
-UnityYaml        2 hrs 9 mins    >------------------------   02.54 %
-Objective-C      52 mins         -------------------------   01.02 %
+C++              42 hrs 42 mins  >>>>>>>>>>>>-------------   49.23 %
+C#               31 hrs 57 mins  >>>>>>>>>----------------   36.84 %
+C                8 hrs 22 mins   >>-----------------------   09.65 %
+UnityYaml        2 hrs 9 mins    >------------------------   02.48 %
+Objective-C      58 mins         -------------------------   01.13 %
 Csproj           8 mins          -------------------------   00.16 %
 Text             6 mins          -------------------------   00.13 %
 GitIgnore file   5 mins          -------------------------   00.11 %
