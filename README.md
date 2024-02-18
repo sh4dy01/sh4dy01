@@ -39,14 +39,6 @@
   </div>
 </section>
 
-## 🔔 My latest Github Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!-- TODO-IST:START -->
-
-<!-- TODO-IST:END -->
 ## 📈 STATS
 <section>
   <div>
