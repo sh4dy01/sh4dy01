@@ -58,32 +58,7 @@
     </a>  
   </div>
 </section>
-      <!-- disabled for now
-    <a href="https://wakatime.com/">
-       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sh4dy01)](https://github.com/anuraghazra/github-readme-stats"/>
-    </a>
-      -->
-        
-<!--START_SECTION:waka-->
 
-```rust
-From: 26 November 2023 - To: 16 February 2024
-
-Total Time: 90 hrs 40 mins
-
-C++              45 hrs 42 mins  >>>>>>>>>>>>>------------   50.41 %
-C#               31 hrs 57 mins  >>>>>>>>>----------------   35.24 %
-C                8 hrs 58 mins   >>-----------------------   09.90 %
-UnityYaml        2 hrs 9 mins    >------------------------   02.38 %
-Objective-C      1 hr 17 mins    -------------------------   01.43 %
-Csproj           8 mins          -------------------------   00.15 %
-Text             6 mins          -------------------------   00.12 %
-GitIgnore file   5 mins          -------------------------   00.10 %
-HLSL             5 mins          -------------------------   00.10 %
-textmate         2 mins          -------------------------   00.05 %
-```
-
-<!--END_SECTION:waka-->
         
 
 
