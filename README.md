@@ -39,6 +39,10 @@
   </div>
 </section>
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📈 STATS
 <section>
   <div>
